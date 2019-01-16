@@ -1,7 +1,7 @@
 ---
 layout: home
 tagline: The Hassle-Free Tool Manager for Node
-get-started: https://docs.notionjs.com/guide/getting-started/
+start: https://docs.notionjs.com/guide/getting-started/
 features:
   - title: Reliable
     description: Ensure everyone in your project uses an identical dev environment, from the Node version to your preferred package manager.
