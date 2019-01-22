@@ -24,6 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# have to include this, or jekyll will ignore it
+include: [ "_pages" ]
+
 # Build settings
 markdown: kramdown
 theme: notion-jekyll-theme
