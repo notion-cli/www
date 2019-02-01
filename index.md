@@ -1,6 +1,6 @@
 ---
 layout: home
-tagline: The Hassle-Free Tool Manager for Node
+tagline: The Hassle-Free JavaScript Toolchain Manager
 start: https://docs.notionjs.com/guide/getting-started/
 features:
   - title: Reliable
